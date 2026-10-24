@@ -1,6 +1,6 @@
 # Aksiyadorlik jamiyati — interaktiv dars
 
-Elektron (smart) doska uchun 8-mavzu «Aksiyadorlik jamiyati» bo‘yicha interaktiv dars sayti.
+Elektron (smart) doska uchun 8-mavzu «Aksiyadorlik jamiyati» bo‘yicha interaktiv dars sayti. O‘zbek va rus tillarida (til asboblar sharidagi UZ/RU tugmasi bilan almashadi).
 
 **Bo‘limlar:** 12 ta slayd · «Somsa Group» multfilmi (11 sahna) va YouTube video dars · lug‘at kartalari · saralash o‘yini · «Buqalar va Ayiqlar» jamoa viktorinasi · investor masalasi · 30 ta savol-javob kartochkasi.
 
